@@ -19,6 +19,11 @@ This is a simple **User Management** application built using **React** for the f
 Here is a screenshot of the **User Management** interface:
 ![image](https://github.com/user-attachments/assets/dbd5f6bc-1519-4e76-9df0-1770efba994f)
 
+Add User
+
+![image](https://github.com/user-attachments/assets/61387930-878a-462c-a5ec-d1369170213d)
+
+
 
 ## Tech Stack
 
