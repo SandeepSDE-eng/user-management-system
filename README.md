@@ -18,7 +18,7 @@ This is a simple **User Management** application built using **React** for the f
 
 Here is a screenshot of the **User Management** interface:
 
-![User Management Screenshot](./assets/screenshot.png)
+![User Management Screenshot](.frontend/assets/screenshot.png)
 
 ## Tech Stack
 
